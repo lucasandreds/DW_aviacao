@@ -124,7 +124,7 @@ CREATE TABLE IF NOT EXISTS Fato_TransporteAereo
     MAIL Float32 CODEC(ZSTD(2)),
     DISTANCE Float32 CODEC(ZSTD(2))
 )
-ENGINE = ReplacingMergeTree()--MergeTree()
+ENGINE = MergeTree()
 PARTITION BY id_tempo
 ORDER BY (id_tempo, id_companhia, id_origem, id_destino)
 SETTINGS index_granularity = 8192;
