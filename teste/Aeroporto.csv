@@ -1,0 +1,745 @@
+AIRPORT_ID,AIRPORT_SEQ_ID,CITY_MARKET_ID,CITY_NAME,COUNTRY,COUNTRY_NAME,WAC
+11646,1164601,31646,"Friday Harbor, WA",US,United States,93
+16233,1623301,36233,"Victoria, Canada",CA,Canada,906
+11762,1176202,31646,"Friday Harbor, WA",US,United States,93
+16263,1626302,36233,"Victoria, Canada",CA,Canada,906
+16166,1616605,36166,"Windsor, Canada",CA,Canada,936
+11588,1158802,31588,"Eastsound, WA",US,United States,93
+15856,1585601,35856,"Westsound, WA",US,United States,93
+16229,1622903,31215,"Vancouver, Canada",CA,Canada,906
+11215,1121501,31215,"Vancouver, Canada",CA,Canada,906
+10621,1062101,30621,"Bimini, The Bahamas",BS,The Bahamas,204
+11697,1169706,32467,"Fort Lauderdale, FL",US,United States,33
+11223,1122304,31223,"Cat Cay, The Bahamas",BS,The Bahamas,204
+13898,1389806,32467,"Miami, FL",US,United States,33
+10792,1079206,30792,"Buffalo, NY",US,United States,22
+16271,1627103,36106,"Toronto, Canada",CA,Canada,936
+13002,1300201,30559,"Seattle, WA",US,United States,93
+14004,1400403,34004,"Everett, WA",US,United States,93
+10785,1078502,30785,"Burlington, VT",US,United States,16
+13746,1374601,30621,"Bimini, The Bahamas",BS,The Bahamas,204
+15860,1586001,35860,"West End, The Bahamas",BS,The Bahamas,204
+14027,1402702,34027,"West Palm Beach/Palm Beach, FL",US,United States,33
+10559,1055902,30559,"Seattle, WA",US,United States,93
+11731,1173103,31731,"Freeport, The Bahamas",BS,The Bahamas,204
+14843,1484306,34819,"San Juan, PR",US,United States,3
+15598,1559805,35598,"Virgin Gorda, British Virgin Islands",VG,British Virgin Islands,282
+14576,1457607,34576,"Rochester, NY",US,United States,22
+15778,1577801,35778,"Walker's Cay, The Bahamas",BS,The Bahamas,204
+12652,1265201,30559,"Kenmore, WA",US,United States,93
+10444,1044406,30444,"The Valley, Anguilla",AI,Anguilla,202
+15024,1502403,34945,"Charlotte Amalie, VI",US,United States,4
+11433,1143302,31295,"Detroit, MI",US,United States,43
+14747,1474703,30559,"Seattle, WA",US,United States,93
+13061,1306106,33038,"Laredo, TX",US,United States,74
+13514,1351404,33514,"Monterrey, Mexico",MX,Mexico,148
+16091,1609106,31295,"Detroit, MI",US,United States,43
+16252,1625202,36252,"London, Canada",CA,Canada,936
+11911,1191106,31911,"Great Harbour Cay, The Bahamas",BS,The Bahamas,204
+14682,1468202,34682,"San Andros, The Bahamas",BS,The Bahamas,204
+15999,1599903,35999,"Tofino, Canada",CA,Canada,906
+16149,1614904,36149,"Ottawa, Canada",CA,Canada,936
+14293,1429304,34293,"Punta Cana, Dominican Republic",DO,Dominican Republic,224
+14886,1488606,34886,"Saltillo, Mexico",MX,Mexico,148
+16159,1615902,36159,"Powell River, Canada",CA,Canada,906
+14736,1473604,33570,"San Diego, CA",US,United States,91
+14766,1476601,34766,"San Felipe, Mexico",MX,Mexico,148
+13605,1360505,33605,"Nassau, The Bahamas",BS,The Bahamas,204
+13303,1330303,32467,"Miami, FL",US,United States,33
+16078,1607802,36078,"Hamilton, Canada",CA,Canada,936
+13289,1328907,33289,"Marsh Harbour, The Bahamas",BS,The Bahamas,204
+10257,1025702,30257,"Albany, NY",US,United States,22
+16217,1621703,36083,"Montreal, Canada",CA,Canada,941
+16845,1684501,36818,"Baker Bay, The Bahamas",BS,The Bahamas,204
+16172,1617202,36172,"Comox, Canada",CA,Canada,906
+11042,1104205,30647,"Cleveland, OH",US,United States,44
+15096,1509602,35096,"Syracuse, NY",US,United States,22
+15417,1541705,35417,"South Andos, The Bahamas",BS,The Bahamas,204
+16115,1611503,36115,"Kelowna, Canada",CA,Canada,906
+15260,1526006,32467,"Miami, FL",US,United States,33
+11534,1153406,31534,"North Eleuthera, The Bahamas",BS,The Bahamas,204
+14122,1412202,30198,"Pittsburgh, PA",US,United States,23
+12080,1208001,32080,"Harbour Island, The Bahamas",BS,The Bahamas,204
+16096,1609602,36096,"Kamloops, Canada",CA,Canada,906
+10540,1054005,30540,"Bedford, MA",US,United States,13
+11910,1191003,31910,"Governors Harbour, The Bahamas",BS,The Bahamas,204
+16278,1627802,36278,"Port Hardy, Canada",CA,Canada,906
+10529,1052907,30529,"Hartford, CT",US,United States,11
+16825,1682501,36797,"Exuma, The Bahamas",BS,The Bahamas,204
+13486,1348603,33486,"Missoula, MT",US,United States,84
+14355,1435502,34355,"Bella Coola, Canada",CA,Canada,906
+16163,1616305,36131,"Quebec, Canada",CA,Canada,941
+14683,1468305,33214,"San Antonio, TX",US,United States,74
+11907,1190704,31621,"Moss Town, The Bahamas",BS,The Bahamas,204
+14879,1487902,34879,"San Luis Potosi, Mexico",MX,Mexico,148
+10821,1082106,30852,"Baltimore, MD",US,United States,35
+11764,1176405,31764,"East Farmingdale, NY",US,United States,22
+13204,1320402,31454,"Orlando, FL",US,United States,33
+12164,1216403,32164,"Hermosillo, Mexico",MX,Mexico,148
+12264,1226402,30852,"Washington, DC",US,United States,38
+14100,1410005,34100,"Philadelphia, PA",US,United States,23
+12478,1247805,31703,"New York, NY",US,United States,22
+16232,1623202,36232,"Winnipeg, Canada",CA,Canada,926
+13256,1325603,33256,"Mission/McAllen/Edinburg, TX",US,United States,74
+12266,1226603,31453,"Houston, TX",US,United States,74
+12320,1232002,32320,"Wilmington, DE",US,United States,31
+14447,1444704,34447,"Racine, WI",US,United States,45
+15497,1549705,35497,"St. Augustine, FL",US,United States,33
+16042,1604205,36039,"Edmonton, Canada",CA,Canada,916
+13232,1323202,30977,"Chicago, IL",US,United States,41
+16257,1625706,30863,"Calgary, Canada",CA,Canada,916
+11868,1186802,31868,"Grand Cayman, Cayman Islands",KY,Cayman Islands,233
+12451,1245102,31136,"Jacksonville, FL",US,United States,33
+10638,1063803,30638,"Leon/Guanajuato, Mexico",MX,Mexico,148
+16477,1647706,34440,"Queretaro, Mexico",MX,Mexico,148
+10411,1041103,30411,"Aruba, Aruba",AW,Aruba,277
+13485,1348502,33485,"Madison, WI",US,United States,45
+11874,1187407,31874,"Guadalajara, Mexico",MX,Mexico,148
+13618,1361805,31847,"Guantanamo, Cuba",CU,Cuba,219
+16128,1612807,36083,"Montreal, Canada",CA,Canada,941
+13180,1318002,33180,"Montego Bay, Jamaica",JM,Jamaica,243
+11032,1103201,31032,"Cancun, Mexico",MX,Mexico,148
+14492,1449202,34492,"Raleigh/Durham, NC",US,United States,36
+12598,1259802,32598,"Arlington, TX",US,United States,74
+11540,1154005,30615,"El Paso, TX",US,United States,74
+13252,1325203,33252,"Mexico City, Mexico",MX,Mexico,148
+10581,1058102,30581,"Bangor, ME",US,United States,12
+12882,1288204,33195,"Lakeland, FL",US,United States,33
+10171,1017102,30194,"Dallas, TX",US,United States,74
+11871,1187105,31871,"Greenville, SC",US,United States,37
+14153,1415307,34153,"Providenciales, Turks and Caicos Islands",TC,Turks and Caicos Islands,281
+13697,1369705,33697,"Cherry Point, NC",US,United States,36
+15304,1530402,33195,"Tampa, FL",US,United States,33
+16171,1617106,36171,"Moncton, Canada",CA,Canada,946
+11618,1161802,31703,"Newark, NJ",US,United States,21
+16085,1608507,36085,"Halifax, Canada",CA,Canada,951
+14832,1483203,34832,"San Jose del Cabo, Mexico",MX,Mexico,148
+12180,1218002,32180,"Holguin, Cuba",CU,Cuba,219
+14814,1481403,30476,"Shreveport, LA",US,United States,72
+13461,1346101,33461,"Smyrna, TN",US,United States,54
+11732,1173205,31732,"Fort Pierce, FL",US,United States,33
+14512,1451202,34512,"Rockford, IL",US,United States,41
+14312,1431203,34312,"Puerto Vallarta, Mexico",MX,Mexico,148
+13495,1349505,33495,"New Orleans, LA",US,United States,72
+16998,1699801,36946,"Tulum, Mexico",MX,Mexico,148
+13930,1393008,30977,"Chicago, IL",US,United States,41
+16852,1685203,33252,"Mexico City, Mexico",MX,Mexico,148
+14893,1489302,33192,"Sacramento, CA",US,United States,91
+11057,1105703,31057,"Charlotte, NC",US,United States,36
+10185,1018502,30185,"Alexandria, LA",US,United States,72
+11066,1106606,31066,"Columbus, OH",US,United States,44
+10423,1042302,30423,"Austin, TX",US,United States,74
+14207,1420701,34207,"Puerto Plata, Dominican Republic",DO,Dominican Republic,224
+13306,1330602,33306,"Merida, Mexico",MX,Mexico,148
+12206,1220605,32206,"Harlingen/San Benito, TX",US,United States,74
+11423,1142308,31423,"Des Moines, IA",US,United States,61
+10521,1052104,30521,"Hamilton, Bermuda",BM,Bermuda,207
+16268,1626802,36268,"St. John's, Canada",CA,Canada,961
+12191,1219103,31453,"Houston, TX",US,United States,74
+14831,1483106,32457,"San Jose, CA",US,United States,91
+13341,1334102,33198,"Kansas City, MO",US,United States,64
+10431,1043106,30431,"Asheville, NC",US,United States,36
+14739,1473905,32105,"Santo Domingo, Dominican Republic",DO,Dominican Republic,224
+14012,1401206,34012,"Port-au-Prince, Haiti",HT,Haiti,238
+13947,1394702,33947,"Oscoda, MI",US,United States,43
+10194,1019408,30194,"Dallas/Fort Worth, TX",US,United States,74
+14583,1458304,34583,"Koror, Palau",PW,Palau,854
+15618,1561801,32575,"Van Nuys, CA",US,United States,91
+16443,1644302,34832,"Cabo San Lucas, Mexico",MX,Mexico,148
+16095,1609503,36095,"Stephenville, Canada",CA,Canada,961
+15584,1558404,35584,"Veracruz, Mexico",MX,Mexico,148
+16083,1608302,36083,"Montreal, Canada",CA,Canada,941
+14689,1468902,34689,"Santa Barbara, CA",US,United States,91
+12889,1288904,32211,"Las Vegas, NV",US,United States,85
+10397,1039707,30397,"Atlanta, GA",US,United States,34
+14677,1467705,34677,"San Salvador, El Salvador",SV,El Salvador,118
+12010,1201005,32010,"Guatemala City, Guatemala",GT,Guatemala,127
+10846,1084605,30846,"Belize City, Belize",BZ,Belize,106
+16267,1626702,36267,"Goose Bay, Canada",CA,Canada,961
+11244,1124402,31244,"Cozumel, Mexico",MX,Mexico,148
+13218,1321801,31565,"Medellin, Colombia",CO,Colombia,327
+12892,1289208,32575,"Los Angeles, CA",US,United States,91
+10486,1048603,30486,"Barranquilla, Colombia",CO,Colombia,327
+16074,1607405,36074,"Dryden, Canada",CA,Canada,936
+16304,1630402,36304,"Ixtapa/Zihuatanejo, Mexico",MX,Mexico,148
+15167,1516702,35167,"Teterboro, NJ",US,United States,21
+11164,1116407,31164,"Cartagena, Colombia",CO,Colombia,327
+14838,1483802,34838,"San Jose, Costa Rica",CR,Costa Rica,110
+10560,1056003,30325,"Aurora, CO",US,United States,82
+11193,1119302,33105,"Cincinnati, OH",US,United States,52
+14262,1426204,34262,"Palm Springs, CA",US,United States,91
+16162,1616206,36162,"Muskoka, Canada",CA,Canada,936
+15153,1515303,35153,"Tuscaloosa, AL",US,United States,51
+12193,1219307,30659,"Balboa, Panama",PA,Panama,162
+14771,1477104,32457,"San Francisco, CA",US,United States,91
+16169,1616902,36169,"Kenora, Canada",CA,Canada,936
+11298,1129806,30194,"Dallas/Fort Worth, TX",US,United States,74
+14679,1467903,33570,"San Diego, CA",US,United States,91
+14637,1463705,34637,"Roatan Island, Honduras",HN,Honduras,131
+14681,1468106,34681,"San Pedro Sula, Honduras",HN,Honduras,131
+12574,1257404,30693,"Nashville, TN",US,United States,54
+14908,1490803,32575,"Santa Ana, CA",US,United States,91
+15084,1508407,35084,"Philipsburg, Sint Maarten",SX,Sint Maarten,264
+10519,1051901,30519,"Boca Raton, FL",US,United States,33
+11827,1182702,32467,"Fort Lauderdale, FL",US,United States,33
+10590,1059006,30590,"Bullhead City, AZ",US,United States,81
+15923,1592302,35923,"Comayagua, Honduras",HN,Honduras,131
+10172,1017205,30172,"Camp Springs, MD",US,United States,35
+14849,1484907,34849,"St. Kitts, Saint Kitts and Nevis",KN,Saint Kitts and Nevis,275
+10327,1032704,30327,"Napa, CA",US,United States,91
+11996,1199603,31871,"Greer, SC",US,United States,37
+10312,1031206,30312,"St. Johns, Antigua and Barbuda",AG,Antigua and Barbuda,206
+16178,1617803,36178,"Gander, Canada",CA,Canada,961
+16242,1624203,36242,"Saskatoon, Canada",CA,Canada,921
+15013,1501302,35013,"Santiago, Dominican Republic",DO,Dominican Republic,224
+11274,1127402,31274,"Dubuque, IA",US,United States,61
+13269,1326905,33269,"Managua, Nicaragua",NI,Nicaragua,153
+13487,1348702,31650,"Minneapolis, MN",US,United States,63
+12197,1219702,31703,"White Plains, NY",US,United States,22
+10711,1071102,30711,"Bogota, Colombia",CO,Colombia,327
+15052,1505203,35052,"St. Vincent, Saint Vincent and the Grenadines",VC,Saint Vincent and the Grenadines,279
+12990,1299002,32990,"Liberia, Costa Rica",CR,Costa Rica,110
+16142,1614202,36142,"Cold Lake, Canada",CA,Canada,916
+11292,1129202,30325,"Denver, CO",US,United States,82
+12244,1224404,32244,"New Haven, CT",US,United States,11
+14286,1428602,34286,"Panama City, Panama",PA,Panama,162
+10575,1057505,30575,"Barbados/Bridgetown, Barbados",BB,Barbados,205
+12016,1201602,32016,"Guam, TT",US,United States,5
+14869,1486903,34614,"Salt Lake City, UT",US,United States,87
+11259,1125904,30194,"Dallas, TX",US,United States,74
+12884,1288403,32884,"Lansing, MI",US,United States,43
+10849,1084907,30849,"Bozeman, MT",US,United States,84
+14107,1410702,30466,"Phoenix, AZ",US,United States,81
+15513,1551305,34884,"St. Lucia, Saint Lucia",LC,Saint Lucia,276
+15422,1542203,32016,"Guam, TT",US,United States,5
+14767,1476701,34767,"Sondre Stromfjord, Greenland",GL,Greenland,975
+14210,1421002,34210,"Port of Spain, Trinidad and Tobago",TT,Trinidad and Tobago,280
+14524,1452401,34524,"Richmond, VA",US,United States,38
+12651,1265105,32651,"Keflavik/Reykjavik, Iceland",IS,Iceland,439
+15111,1511102,35111,"San Cristobal, Mexico",MX,Mexico,148
+14824,1482404,34408,"Singapore, Singapore",SG,Singapore,776
+12829,1282902,32829,"Kushiro, Japan",JP,Japan,736
+14918,1491802,34918,"Shannon, Ireland",IE,Ireland,441
+11435,1143505,31435,"Dublin, Ireland",IE,Ireland,441
+12986,1298603,32986,"Lima, Peru",PE,Peru,368
+11488,1148807,31488,"Edinburgh, United Kingdom",GB,United Kingdom,493
+10721,1072102,30721,"Boston, MA",US,United States,13
+12972,1297207,30730,"London, United Kingdom",GB,United Kingdom,493
+15183,1518306,35152,"Tenerife, Spain",ES,Spain,482
+10920,1092006,30920,"Paris, France",FR,France,427
+11628,1162807,31628,"Farnborough, United Kingdom",GB,United Kingdom,493
+13156,1315606,31584,"Madrid, Spain",ES,Spain,482
+10299,1029906,30299,"Anchorage, AK",US,United States,1
+13744,1374408,32169,"Tokyo, Japan",JP,Japan,736
+10292,1029202,30292,"Amsterdam, Netherlands",NL,Netherlands,461
+12169,1216906,32169,"Tokyo, Japan",JP,Japan,736
+11760,1176004,31760,"Frankfurt, Germany",DE,Germany,429
+10752,1075205,30752,"Brussels, Belgium",BE,Belgium,409
+14463,1446303,34463,"Rabat, Morocco",MA,Morocco,548
+10517,1051707,30517,"Barcelona, Spain",ES,Spain,482
+13518,1351806,33518,"Munich, Germany",DE,Germany,429
+16321,1632105,36321,"Zurich, Switzerland",CH,Switzerland,486
+11518,1151802,31518,"Eindhoven, Netherlands",NL,Netherlands,461
+13625,1362506,33625,"Nice, France",FR,France,427
+16782,1678202,36756,"Dakar Thies, Senegal",SN,Senegal,569
+15566,1556604,35338,"Venice, Italy",IT,Italy,450
+13667,1366705,33667,"Norfolk, VA",US,United States,38
+14561,1456105,34561,"Ramstein, Germany",DE,Germany,429
+12393,1239304,32393,"Istres, France",FR,France,427
+11651,1165102,31000,"Rome, Italy",IT,Italy,450
+13765,1376506,33765,"Nuremberg, Germany",DE,Germany,429
+15567,1556701,30966,"Sao Paulo, Brazil",BR,Brazil,316
+11988,1198805,30966,"Sao Paulo, Brazil",BR,Brazil,316
+11888,1188803,31888,"Georgetown, Guyana",GY,Guyana,350
+12173,1217305,32134,"Honolulu, HI",US,United States,2
+14206,1420605,34206,"Port Moresby, Papua New Guinea",PG,Papua New Guinea,804
+16334,1633405,36334,"Rota, Spain",ES,Spain,482
+11630,1163003,31517,"Fairbanks, AK",US,United States,1
+13560,1356003,32987,"Milan, Italy",IT,Italy,450
+13604,1360405,33604,"Naples, Italy",IT,Italy,450
+10244,1024403,30244,"Auckland, New Zealand",NZ,New Zealand,851
+11276,1127607,31276,"Dubrovnik, Croatia",HR,Croatia,415
+12277,1227706,31945,"Seoul, South Korea",KR,South Korea,778
+10696,1069603,30696,"Brisbane, Australia",AU,Australia,802
+10394,1039401,30394,"Athens, Greece",GR,Greece,433
+11915,1191504,31915,"Rio de Janeiro, Brazil",BR,Brazil,316
+14307,1430706,30721,"Providence, RI",US,United States,15
+10279,1027903,30279,"Amarillo, TX",US,United States,74
+14228,1422802,34228,"Papeete, French Polynesia",PF,French Polynesia,823
+13342,1334207,33342,"Milwaukee, WI",US,United States,45
+14168,1416805,34168,"Palermo, Italy",IT,Italy,450
+11337,1133705,31337,"Duluth, MN",US,United States,63
+10428,1042807,30428,"Aviano, Italy",IT,Italy,450
+15092,1509205,35092,"Sydney, Australia",AU,Australia,802
+11625,1162505,30181,"Ezeiza, Argentina",AR,Argentina,303
+14717,1471705,34717,"Santiago, Chile",CL,Chile,324
+13408,1340802,33408,"Manila, Philippines",PH,Philippines,766
+13532,1353202,33532,"Montevideo, Uruguay",UY,Uruguay,385
+14259,1425902,34259,"Portsmouth, NH",US,United States,14
+13243,1324303,33238,"Melbourne, Australia",AU,Australia,802
+10615,1061502,30615,"El Paso, TX",US,United States,74
+12143,1214303,32126,"Hong Kong, Hong Kong",HK,Hong Kong,729
+15258,1525802,35258,"Tel Aviv, Israel",IL,Israel,636
+15045,1504505,35045,"Fairfield, CA",US,United States,91
+14929,1492903,34929,"Sofia, Bulgaria",BG,Bulgaria,411
+13198,1319801,33198,"Kansas City, MO",US,United States,64
+11124,1112406,31124,"Cape Town, South Africa",ZA,South Africa,562
+14057,1405702,34057,"Portland, OR",US,United States,92
+12520,1252002,32520,"Johannesburg, South Africa",ZA,South Africa,562
+10599,1059904,30599,"Birmingham, AL",US,United States,51
+11290,1129002,31290,"Delhi, India",IN,India,733
+13756,1375605,33756,"Port Hueneme, CA",US,United States,91
+12845,1284503,32845,"Kwajalein, Marshall Islands",MH,Marshall Islands,844
+15018,1501806,30730,"London, United Kingdom",GB,United Kingdom,493
+10732,1073203,30732,"Aguadilla, PR",US,United States,3
+11519,1151907,34448,"Road Town, British Virgin Islands",VG,British Virgin Islands,282
+12798,1279803,32798,"Kosrae, Federated States of Micronesia",FM,Federated States of Micronesia,810
+14730,1473004,33044,"Louisville, KY",US,United States,52
+10868,1086803,30868,"Columbia, SC",US,United States,37
+13957,1395703,33957,"Ostend, Belgium",BE,Belgium,409
+15376,1537604,30436,"Tucson, AZ",US,United States,81
+13244,1324402,33244,"Memphis, TN",US,United States,54
+11375,1137502,31375,"Dover, DE",US,United States,31
+11187,1118702,31187,"Chihuahua, Mexico",MX,Mexico,148
+13791,1379105,33570,"San Diego, CA",US,United States,91
+11637,1163703,31637,"Fargo, ND",US,United States,66
+11267,1126702,31267,"Dayton, OH",US,United States,44
+13891,1389101,32575,"Ontario, CA",US,United States,91
+13754,1375402,33754,"Sigonella, Italy",IT,Italy,450
+11973,1197302,31973,"Gulfport/Biloxi, MS",US,United States,53
+11415,1141501,31335,"Del Rio, TX",US,United States,74
+11823,1182304,31823,"Fort Wayne, IN",US,United States,42
+10466,1046602,30466,"Phoenix, AZ",US,United States,81
+14664,1466402,34664,"Rzeszow, Poland",PL,Poland,467
+12026,1202602,32026,"Geneva, Switzerland",CH,Switzerland,486
+10357,1035702,30357,"Stockholm, Sweden",SE,Sweden,484
+10778,1077803,30778,"Battle Creek, MI",US,United States,43
+11225,1122505,31225,"Cayman Brac, Cayman Islands",KY,Cayman Islands,233
+13856,1385602,32169,"Tokyo, Japan",JP,Japan,736
+14309,1430902,34309,"Shanghai, China",CN,China,713
+12917,1291703,31066,"Columbus, OH",US,United States,44
+13658,1365802,33658,"Ningbo, China",CN,China,713
+15295,1529503,35165,"Toledo, OH",US,United States,44
+12265,1226505,32265,"Niagara Falls, NY",US,United States,22
+11075,1107505,31075,"Camaguey, Cuba",CU,Cuba,219
+14435,1443505,34435,"San Marcos, TX",US,United States,74
+14022,1402203,34022,"Puebla, Mexico",MX,Mexico,148
+14924,1492405,34924,"Santa Clara, Cuba",CU,Cuba,219
+12073,1207302,32073,"Havana, Cuba",CU,Cuba,219
+13087,1308702,32211,"Las Vegas, NV",US,United States,85
+13192,1319203,33192,"Sacramento, CA",US,United States,91
+13796,1379610,32457,"Oakland, CA",US,United States,91
+10971,1097105,30971,"Zhengzhou, China",CN,China,713
+15246,1524606,33252,"Toluca, Mexico",MX,Mexico,148
+11058,1105802,31058,"Columbus, IN",US,United States,42
+12125,1212502,32125,"Hahn, Germany",DE,Germany,429
+15154,1515402,31979,"Tacoma, WA",US,United States,93
+11995,1199502,31995,"Greensboro/High Point, NC",US,United States,36
+11487,1148703,30299,"Anchorage, AK",US,United States,1
+11517,1151702,31517,"Fairbanks, AK",US,United States,1
+16755,1675503,30194,"Dallas, TX",US,United States,74
+13483,1348302,33483,"Misawa, Japan",JP,Japan,736
+12339,1233904,32337,"Indianapolis, IN",US,United States,42
+10562,1056203,30562,"Mobile, AL",US,United States,51
+15317,1531702,35317,"Torreon, Mexico",MX,Mexico,148
+12693,1269302,32693,"Kingston, Jamaica",JM,Jamaica,243
+12991,1299103,32991,"Lisbon, Portugal",PT,Portugal,469
+14115,1411506,31928,"Glasgow/Prestwick, United Kingdom",GB,United Kingdom,493
+12957,1295704,32957,"Liege, Belgium",BE,Belgium,409
+15455,1545506,35455,"Quito, Ecuador",EC,Ecuador,337
+15306,1530606,35306,"Taipei, Taiwan",TW,Taiwan,781
+15016,1501606,31123,"St. Louis, MO",US,United States,64
+14186,1418606,34186,"Pohnpei, Federated States of Micronesia",FM,Federated States of Micronesia,810
+11430,1143006,31430,"Denton, TX",US,United States,74
+10994,1099402,30994,"Charleston, SC",US,United States,37
+15237,1523704,35237,"Chuuk, Federated States of Micronesia",FM,Federated States of Micronesia,810
+14275,1427502,34275,"Pontiac, MI",US,United States,43
+15027,1502704,34992,"Christiansted, VI",US,United States,4
+16593,1659302,32109,"Hefei, China",CN,China,713
+11351,1135105,31351,"Okinawa, Japan",JP,Japan,736
+13954,1395406,33954,"Osan, South Korea",KR,South Korea,778
+11308,1130802,31308,"Dothan, AL",US,United States,51
+15125,1512503,35125,"Tampico, Mexico",MX,Mexico,148
+12055,1205505,30977,"Gary, IN",US,United States,42
+11086,1108602,31086,"Chino, CA",US,United States,91
+11172,1117203,31172,"Chengdu, China",CN,China,713
+11950,1195002,31950,"Grenada, Grenada",GD,Grenada,273
+13602,1360203,33602,"Nadi, Fiji",FJ,Fiji,821
+11455,1145501,31455,"Dubai, United Arab Emirates",AE,United Arab Emirates,678
+13614,1361402,30646,"Bangkok, Thailand",TH,Thailand,782
+13931,1393102,33667,"Norfolk, VA",US,United States,38
+10549,1054902,30549,"Berlin, Germany",DE,Germany,429
+12496,1249603,32496,"Djibouti, Djibouti",DJ,Djibouti,525
+15505,1550503,35505,"Utapao, Thailand",TH,Thailand,782
+12699,1269902,32400,"Osaka, Japan",JP,Japan,736
+11185,1118504,31185,"Willemstad, Curacao",CW,Curacao,262
+10877,1087706,30877,"Guangzhou, China",CN,China,713
+13241,1324102,33241,"Meridian, MS",US,United States,53
+15174,1517403,32946,"Lajes, Portugal",PT,Portugal,469
+13043,1304308,33043,"Lagos, Nigeria",NG,Nigeria,555
+13255,1325502,33255,"Mansfield, OH",US,United States,44
+15994,1599403,35994,"Yap, Federated States of Micronesia",FM,Federated States of Micronesia,810
+13277,1327702,33277,"Montgomery, AL",US,United States,51
+12064,1206403,32064,"Hannover, Germany",DE,Germany,429
+15950,1595003,32538,"Iwakuni, Japan",JP,Japan,736
+10268,1026803,30268,"Waterloo, IA",US,United States,61
+14030,1403002,33932,"Zanderij, Suriname",SR,Suriname,379
+14954,1495403,34954,"Spangdahlem, Germany",DE,Germany,429
+15022,1502203,35022,"Stuttgart, Germany",DE,Germany,429
+10480,1048006,30480,"Manama, Bahrain",BH,Bahrain,605
+10970,1097008,30970,"Cologne, Germany",DE,Germany,429
+13928,1392806,33928,"Orebro, Sweden",SE,Sweden,484
+13682,1368207,31136,"Jacksonville, FL",US,United States,33
+14807,1480704,34807,"Sharjah, United Arab Emirates",AE,United Arab Emirates,678
+10676,1067603,30676,"Belleville, IL",US,United States,41
+13165,1316505,33165,"Manchester, United Kingdom",GB,United Kingdom,493
+14071,1407103,34071,"Perth, Australia",AU,Australia,802
+12938,1293805,32938,"Leipzig, Germany",DE,Germany,429
+15256,1525605,35256,"Toulouse, France",FR,France,427
+10782,1078207,30782,"Bratislava, Slovakia",SK,Slovakia,483
+15968,1596808,31369,"Doha, Qatar",QA,Qatar,664
+12526,1252602,32526,"Azraq, Jordan",JO,Jordan,639
+15129,1512905,35129,"Taranto, Italy",IT,Italy,450
+11548,1154804,31548,"Derby, United Kingdom",GB,United Kingdom,493
+15142,1514202,35142,"Tbilisi, Georgia",GE,Georgia,432
+13166,1316602,33166,"Manaus, Brazil",BR,Brazil,316
+10175,1017501,30415,"Al Dhafra, United Arab Emirates",AE,United Arab Emirates,678
+13694,1369401,33664,"Nagoya, Japan",JP,Japan,736
+12067,1206702,32067,"Hanoi, Vietnam",VN,Vietnam,791
+14533,1453302,34454,"Riverside, CA",US,United States,91
+12849,1284904,32849,"Kuwait, Kuwait",KW,Kuwait,644
+14789,1478909,34789,"Ho Chi Minh City, Vietnam",VN,Vietnam,791
+11138,1113803,31138,"Luzon Island, Philippines",PH,Philippines,766
+15595,1559506,35595,"Vienna, Austria",AT,Austria,403
+12131,1213102,32131,"Ogden, UT",US,United States,87
+15917,1591701,35917,"Xiamen, China",CN,China,713
+15210,1521003,35210,"Tijuana, Mexico",MX,Mexico,148
+11030,1103005,31030,"Chongqing, China",CN,China,713
+12636,1263603,32636,"Kuching, Malaysia",MY,Malaysia,749
+15127,1512701,35127,"Qingdao, China",CN,China,713
+11253,1125302,31253,"Dhaka, Bangladesh",BD,Bangladesh,703
+11170,1117001,31170,"Sapporo, Japan",JP,Japan,736
+16456,1645607,31455,"Jebel Ali, United Arab Emirates",AE,United Arab Emirates,678
+13162,1316204,33162,"Majuro, Marshall Islands",MH,Marshall Islands,844
+11966,1196602,31966,"Gothenburg, Sweden",SE,Sweden,484
+15211,1521102,33851,"Oklahoma City, OK",US,United States,73
+14068,1406802,34068,"Bayan Lepas, Malaysia",MY,Malaysia,749
+16286,1628603,36286,"Zaragoza, Spain",ES,Spain,482
+10435,1043503,30435,"Avalon, Australia",AU,Australia,802
+12115,1211504,32115,"Hangzhou, China",CN,China,713
+15113,1511305,35113,"Shenzhen, China",CN,China,713
+11775,1177502,31775,"Sioux Falls, SD",US,United States,67
+15277,1527701,35277,"Jinan, China",CN,China,713
+13692,1369204,33692,"Nanjing, China",CN,China,713
+11160,1116001,31160,"Changsha, China",CN,China,713
+17034,1703401,36973,"Ezhou, China",CN,China,713
+16215,1621505,36106,"Toronto, Canada",CA,Canada,936
+10361,1036105,30361,"Watertown, NY",US,United States,22
+10916,1091603,30916,"Chub Cay, The Bahamas",BS,The Bahamas,204
+15147,1514702,35147,"Treasure Cay, The Bahamas",BS,The Bahamas,204
+13068,1306802,33068,"La Romana, Dominican Republic",DO,Dominican Republic,224
+14819,1481902,34819,"San Juan, PR",US,United States,3
+15640,1564002,35640,"Vancouver, WA",US,United States,93
+13654,1365407,33654,"Nevis, Saint Kitts and Nevis",KN,Saint Kitts and Nevis,275
+13360,1336004,33360,"Melbourne, FL",US,United States,33
+14278,1427805,34278,"Pointe A Pitre, Guadeloupe",GP,Guadeloupe,235
+12953,1295304,31703,"New York, NY",US,United States,22
+10933,1093302,30933,"Chicopee Falls, MA",US,United States,13
+10158,1015804,30158,"Atlantic City, NJ",US,United States,21
+10734,1073404,30734,"Bequia, Saint Vincent and the Grenadines",VC,Saint Vincent and the Grenadines,279
+10210,1021004,30210,"Aguascalientes, Mexico",MX,Mexico,148
+16018,1601802,36018,"Castlegar/Nelson/Trail, Canada",CA,Canada,906
+10693,1069302,30693,"Nashville, TN",US,United States,54
+14530,1453006,34530,"Rifle, CO",US,United States,82
+12051,1205105,32051,"Guayaquil, Ecuador",EC,Ecuador,337
+13094,1309406,30730,"London, United Kingdom",GB,United Kingdom,493
+15020,1502002,31650,"Minneapolis/St. Paul, MN",US,United States,63
+12900,1290006,30920,"Paris, France",FR,France,427
+16832,1683204,31703,"New York, NY",US,United States,22
+16901,1690101,36801,"West Palm Beach, FL",US,United States,33
+11577,1157706,31577,"Erie, PA",US,United States,23
+14692,1469206,34692,"Saint Barthelemy, Saint Barthelemy",BL,Saint Barthelemy,237
+16007,1600702,36007,"Campbell River, Canada",CA,Canada,906
+15626,1562603,35626,"Vieques, PR",US,United States,3
+10371,1037103,30371,"Andros Town, The Bahamas",BS,The Bahamas,204
+15030,1503002,35030,"Stuart, FL",US,United States,33
+13439,1343901,32467,"Miami, FL",US,United States,33
+16290,1629006,36290,"Bromont, Canada",CA,Canada,941
+13709,1370905,33709,"Norman's Cay, The Bahamas",BS,The Bahamas,204
+10470,1047002,30470,"Samana, Dominican Republic",DO,Dominican Republic,224
+14626,1462602,34626,"Rock Sound, The Bahamas",BS,The Bahamas,204
+10329,1032905,30329,"Naples, FL",US,United States,33
+14255,1425505,34255,"Pittsfield, MA",US,United States,13
+15615,1561503,35615,"Venice, FL",US,United States,33
+14635,1463502,31714,"Fort Myers, FL",US,United States,33
+14896,1489602,34896,"Stella Maris, The Bahamas",BS,The Bahamas,204
+12932,1293202,32932,"Lebanon-Hanover, NH",US,United States,14
+11372,1137208,31279,"Marigot, Dominica",DM,Dominica,221
+16158,1615804,36158,"Port Hawkesbury, Canada",CA,Canada,951
+14112,1411206,33195,"St. Petersburg, FL",US,United States,33
+14986,1498603,34986,"Sarasota/Bradenton, FL",US,United States,33
+13809,1380903,33809,"Ocala, FL",US,United States,33
+12222,1222204,32222,"East Hampton, NY",US,United States,22
+15447,1544705,35447,"Waukegan, IL",US,United States,41
+11648,1164802,31648,"Kalispell, MT",US,United States,84
+11015,1101502,31015,"Canouan, Saint Vincent and the Grenadines",VC,Saint Vincent and the Grenadines,279
+16120,1612002,36120,"Murray Bay, Canada",CA,Canada,941
+13541,1354102,33541,"Martha's Vineyard, MA",US,United States,13
+16022,1602202,36022,"Charlo, Canada",CA,Canada,946
+16261,1626105,36261,"Charlottetown, Canada",CA,Canada,956
+16223,1622302,36223,"Bonaventure, Canada",CA,Canada,941
+14712,1471201,30466,"Phoenix, AZ",US,United States,81
+15356,1535602,35356,"Trenton, NJ",US,United States,21
+13398,1339802,33398,"Morristown, NJ",US,United States,21
+16306,1630602,36306,"Manzanillo, Mexico",MX,Mexico,148
+16167,1616702,36167,"Watson Lake, Canada",CA,Canada,911
+10800,1080003,32575,"Burbank, CA",US,United States,91
+14674,1467402,34674,"Santa Fe, NM",US,United States,86
+10325,1032505,30325,"Denver, CO",US,United States,82
+15380,1538005,35380,"Traverse City, MI",US,United States,43
+15370,1537002,34653,"Tulsa, OK",US,United States,73
+11728,1172804,31728,"Westhampton, NY",US,United States,22
+11954,1195403,31954,"Genoa, Italy",IT,Italy,450
+12987,1298707,32987,"Milan, Italy",IT,Italy,450
+10561,1056103,30561,"Bakersfield, CA",US,United States,91
+13771,1377103,33771,"Mountain View, CA",US,United States,91
+16016,1601602,36016,"Nanaimo, Canada",CA,Canada,906
+16533,1653301,32105,"Santo Domingo, Dominican Republic",DO,Dominican Republic,224
+13501,1350104,33501,"Marathon, FL",US,United States,33
+11977,1197705,31977,"Green Bay, WI",US,United States,45
+16097,1609704,36097,"Kitchener, Canada",CA,Canada,936
+12553,1255303,33743,"Ceiba, PR",US,United States,3
+10815,1081505,30815,"Beverly, MA",US,United States,13
+16019,1601906,36019,"Miramichi, Canada",CA,Canada,946
+16179,1617902,36179,"Sydney, Canada",CA,Canada,951
+17013,1701301,36959,"Fulshear, TX",US,United States,74
+14321,1432105,34321,"Portland, ME",US,United States,12
+12758,1275804,32758,"Kona, HI",US,United States,2
+14052,1405201,34052,"Maldonado, Uruguay",UY,Uruguay,385
+16061,1606104,36061,"Kingston, Canada",CA,Canada,936
+16310,1631001,36016,"Nanaimo, Canada",CA,Canada,906
+11252,1125203,31252,"Daytona Beach, FL",US,United States,33
+10589,1058903,30589,"Bar Harbor, ME",US,United States,12
+13540,1354005,33540,"Burlington/Mount Vernon, WA",US,United States,93
+14761,1476107,34761,"Sanford, FL",US,United States,33
+14082,1408203,34082,"Punta Gorda, FL",US,United States,33
+15136,1513601,33652,"New Bight, The Bahamas",BS,The Bahamas,204
+12934,1293402,32934,"Leesburg, FL",US,United States,33
+14996,1499608,30731,"Brunswick, GA",US,United States,34
+16288,1628805,36288,"Bathurst, Canada",CA,Canada,946
+12280,1228002,32280,"Idaho Falls, ID",US,United States,83
+16156,1615603,36156,"Peterborough, Canada",CA,Canada,936
+14685,1468502,34685,"Savannah, GA",US,United States,34
+16279,1627902,36279,"Sept-Iles, Canada",CA,Canada,941
+14193,1419306,33728,"Pensacola, FL",US,United States,33
+11041,1104103,31041,"Carlsbad, CA",US,United States,91
+11052,1105203,31052,"Cali, Colombia",CO,Colombia,327
+12694,1269402,32694,"Kerry County, Ireland",IE,Ireland,441
+10623,1062303,30623,"Bilbao, Spain",ES,Spain,482
+15060,1506001,35060,"Seville, Spain",ES,Spain,482
+15081,1508109,30549,"Berlin, Germany",DE,Germany,429
+15628,1562805,35628,"Vero Beach, FL",US,United States,33
+11106,1110602,31106,"Concord, NH",US,United States,14
+16540,1654001,36526,"Belfast, ME",US,United States,12
+16322,1632206,36322,"San Salvador, The Bahamas",BS,The Bahamas,204
+11481,1148102,31481,"Panama City, FL",US,United States,33
+10836,1083601,30836,"Rock Hill, SC",US,United States,37
+11700,1170003,31700,"Florence, Italy",IT,Italy,450
+11884,1188402,31884,"Spokane, WA",US,United States,93
+10154,1015406,30154,"Nantucket, MA",US,United States,13
+11136,1113604,31136,"Jacksonville, FL",US,United States,33
+16023,1602304,36023,"St. Catharines, Canada",CA,Canada,936
+14884,1488407,34884,"St. Lucia, Saint Lucia",LC,Saint Lucia,276
+15041,1504102,35041,"Sun Valley/Hailey/Ketchum, ID",US,United States,83
+16256,1625603,36256,"North Bay, Canada",CA,Canada,936
+10856,1085605,30856,"Brize Norton, United Kingdom",GB,United Kingdom,493
+11278,1127805,30852,"Washington, DC",US,United States,38
+11983,1198301,31983,"Gerona, Spain",ES,Spain,482
+14087,1408701,34087,"Pascagoula, MS",US,United States,53
+14905,1490505,34905,"Santa Maria, CA",US,United States,91
+15412,1541206,35412,"Knoxville, TN",US,United States,54
+13175,1317506,33175,"Mangrove Cay, The Bahamas",BS,The Bahamas,204
+13812,1381201,33812,"Ocho Rios, Jamaica",JM,Jamaica,243
+11376,1137601,30977,"Chicago, IL",US,United States,41
+16101,1610102,36101,"Yakima, WA",US,United States,93
+13158,1315805,33158,"Midland/Odessa, TX",US,United States,74
+14950,1495002,33195,"Tampa, FL",US,United States,33
+12898,1289806,32898,"Latrobe, PA",US,United States,23
+11790,1179002,30397,"Atlanta, GA",US,United States,34
+10974,1097406,30974,"Campo Grande, Brazil",BR,Brazil,316
+12127,1212702,32575,"Hawthorne, CA",US,United States,91
+13594,1359406,33594,"Mazatlan, Mexico",MX,Mexico,148
+14320,1432004,30977,"Chicago, IL",US,United States,41
+14691,1469103,34691,"San Bernardino, CA",US,United States,91
+14572,1457201,34572,"Renton, WA",US,United States,93
+13476,1347605,34922,"Monterey, CA",US,United States,91
+13871,1387102,33316,"Omaha, NE",US,United States,65
+12945,1294503,32945,"Lexington, KY",US,United States,52
+10717,1071706,30717,"Bonaire, Bonaire, Sint Eustatius, and Saba",BQ,"Bonaire, Sint Eustatius, and Saba",260
+10647,1064705,30647,"Cleveland, OH",US,United States,44
+10536,1053603,30536,"Brindisi, Italy",IT,Italy,450
+13370,1337002,33370,"Morelia, Mexico",MX,Mexico,148
+13239,1323901,33239,"Manta, Ecuador",EC,Ecuador,337
+10878,1087805,30878,"Cap-Haitien, Haiti",HT,Haiti,238
+10929,1092901,30929,"Lapu-Lapu City, Philippines",PH,Philippines,766
+16254,1625406,36254,"Whitehorse, Canada",CA,Canada,911
+15043,1504302,31123,"St. Louis, MO",US,United States,64
+14066,1406604,34066,"Beijing, China",CN,China,713
+14722,1472205,34722,"Santiago, Cuba",CU,Cuba,219
+12544,1254404,32544,"Concord, NC",US,United States,36
+11654,1165406,31654,"Fort de France, Martinique",MQ,Martinique,252
+14696,1469608,34696,"South Bend, IN",US,United States,42
+15205,1520502,35205,"Tirana, Albania",AL,Albania,401
+16173,1617301,36173,"Regina, Canada",CA,Canada,921
+13966,1396605,30503,"Bucharest, Romania",RO,Romania,473
+11123,1112301,31123,"St. Louis, MO",US,United States,64
+12954,1295407,32575,"Long Beach, CA",US,United States,91
+13095,1309502,33095,"Loreto, Mexico",MX,Mexico,148
+10790,1079008,30790,"Budapest, Hungary",HU,Hungary,437
+13851,1385103,33851,"Oklahoma City, OK",US,United States,73
+14314,1431402,34314,"Provo, UT",US,United States,87
+10911,1091107,30911,"Caracas, Venezuela",VE,Venezuela,388
+10148,1014803,30148,"Acapulco, Mexico",MX,Mexico,148
+13799,1379906,33436,"Oaxaca, Mexico",MX,Mexico,148
+12239,1223905,32239,"Santa Cruz/Huatulco, Mexico",MX,Mexico,148
+10781,1078105,30781,"Baton Rouge, LA",US,United States,72
+10155,1015502,30155,"Waco, TX",US,United States,74
+12391,1239103,31703,"Islip, NY",US,United States,22
+15627,1562701,35627,"Varadero, Cuba",CU,Cuba,219
+10990,1099005,30990,"Charlottesville, VA",US,United States,38
+14570,1457002,34570,"Reno, NV",US,United States,85
+10747,1074706,30747,"Brownsville, TX",US,United States,74
+11003,1100303,31003,"Cedar Rapids/Iowa City, IA",US,United States,61
+10683,1068303,30683,"Bloomington, IN",US,United States,42
+11730,1173002,31730,"Fortaleza, Brazil",BR,Brazil,316
+12472,1247204,32472,"Jeddah, Saudi Arabia",SA,Saudi Arabia,670
+12966,1296608,30730,"London, United Kingdom",GB,United Kingdom,493
+13900,1390006,33900,"Porto, Portugal",PT,Portugal,469
+11980,1198002,31980,"Grand Island, NE",US,United States,65
+11301,1130105,31301,"Durango, Mexico",MX,Mexico,148
+11612,1161206,31612,"Evansville, IN",US,United States,42
+10981,1098102,30981,"Christchurch, New Zealand",NZ,New Zealand,851
+15550,1555005,35550,"Valdosta, GA",US,United States,34
+12886,1288602,32886,"La Paz, Mexico",MX,Mexico,148
+13873,1387306,33873,"Nome, AK",US,United States,1
+11638,1163807,31638,"Fresno, CA",US,United States,91
+16218,1621802,33785,"Yuma, AZ",US,United States,81
+13726,1372605,33726,"Noumea, New Caledonia",NC,New Caledonia,846
+14458,1445805,34458,"Avarua, Cook Islands",CK,Cook Islands,813
+14453,1445302,34453,"Marrakech, Morocco",MA,Morocco,548
+16293,1629303,36293,"Zacatecas, Mexico",MX,Mexico,148
+14065,1406506,34065,"Pereira, Colombia",CO,Colombia,327
+14166,1416605,34166,"Palma Mallorca, Spain",ES,Spain,482
+14955,1495503,34955,"Saipan, TT",US,United States,5
+11793,1179306,31793,"Fukuoka, Japan",JP,Japan,736
+11118,1111803,31118,"Copenhagen, Denmark",DK,Denmark,419
+14239,1423907,34239,"Prague, Czech Republic",CZ,Czech Republic,418
+10570,1057005,30570,"Bucaramanga, Colombia",CO,Colombia,327
+11726,1172605,31726,"Topeka, KS",US,United States,62
+10448,1044805,30448,"Armenia, Colombia",CO,Colombia,327
+14051,1405108,34051,"Ponta Delgada, Portugal",PT,Portugal,469
+10287,1028703,30164,"Amman, Jordan",JO,Jordan,639
+10150,1015004,30150,"Accra, Ghana",GH,Ghana,529
+10205,1020508,30205,"Malaga, Spain",ES,Spain,482
+11369,1136903,31369,"Doha, Qatar",QA,Qatar,664
+10666,1066602,30666,"Bellingham, WA",US,United States,93
+10434,1043405,30434,"Scranton/Wilkes-Barre, PA",US,United States,23
+13230,1323002,32070,"Harrisburg, PA",US,United States,23
+11140,1114008,31140,"Corpus Christi, TX",US,United States,74
+10874,1087402,30647,"Akron, OH",US,United States,44
+10713,1071302,30713,"Boise, ID",US,United States,83
+11986,1198603,31986,"Grand Rapids, MI",US,United States,43
+13785,1378502,33785,"Yuma, AZ",US,United States,81
+14050,1405003,30397,"Atlanta, GA",US,United States,34
+11233,1123302,31233,"Cheyenne, WY",US,United States,88
+11921,1192102,31921,"Grand Junction, CO",US,United States,82
+11109,1110902,30189,"Colorado Springs, CO",US,United States,82
+14457,1445702,34457,"Rapid City, SD",US,United States,67
+10135,1013506,30135,"Allentown/Bethlehem/Easton, PA",US,United States,23
+14792,1479201,34792,"Sugar Land, TX",US,United States,74
+11049,1104903,31049,"College Station/Bryan, TX",US,United States,74
+13296,1329605,30721,"Manchester, NH",US,United States,14
+10140,1014005,30140,"Albuquerque, NM",US,United States,86
+11982,1198202,31982,"Killeen, TX",US,United States,74
+12278,1227805,30928,"Wichita, KS",US,United States,62
+15070,1507003,31703,"Newburgh/Poughkeepsie, NY",US,United States,22
+10478,1047805,30478,"Westfield, MA",US,United States,13
+11636,1163606,31636,"Faro, Portugal",PT,Portugal,469
+13113,1311302,33113,"Luxembourg, Luxembourg",LU,Luxembourg,454
+11108,1110803,31108,"Cordoba, Argentina",AR,Argentina,303
+11082,1108202,30610,"Belo Horizonte, Brazil",BR,Brazil,316
+10608,1060805,30608,"Birmingham, United Kingdom",GB,United Kingdom,493
+10872,1087205,30872,"Cairo, Egypt",EG,Egypt,591
+14185,1418503,34185,"Phnom Penh, Cambodia",KH,Cambodia,709
+12911,1291103,32911,"Larnaca, Cyprus",CY,Cyprus,611
+12832,1283206,32832,"Kuala Lumpur, Malaysia",MY,Malaysia,749
+10897,1089702,30897,"Canberra, Australia",AU,Australia,802
+16273,1627305,36273,"Yellowknife, Canada",CA,Canada,931
+14645,1464503,34645,"Riyadh, Saudi Arabia",SA,Saudi Arabia,670
+10314,1031403,30314,"Andeness, Norway",NO,Norway,465
+10980,1098002,30980,"Chattanooga, TN",US,United States,54
+12878,1287803,32878,"Lafayette, IN",US,United States,42
+12680,1268005,32680,"Kaohsiung, Taiwan",TW,Taiwan,781
+15372,1537204,35372,"Tunis, Tunisia",TN,Tunisia,588
+16141,1614102,36141,"Old Crow, Canada",CA,Canada,911
+10298,1029805,30298,"Anniston, AL",US,United States,51
+12101,1210103,32101,"Helsinki, Finland",FI,Finland,425
+11715,1171506,31715,"Freetown, Sierra Leone",SL,Sierra Leone,571
+13829,1382903,32131,"Ogden, UT",US,United States,87
+11460,1146003,31460,"Dushanbe, Tajikistan",TJ,Tajikistan,783
+13952,1395205,31647,"Oslo, Norway",NO,Norway,465
+11070,1107002,30880,"Casablanca, Morocco",MA,Morocco,548
+12134,1213406,32134,"Honolulu, HI",US,United States,2
+11444,1144407,30970,"Dusseldorf, Germany",DE,Germany,429
+12003,1200305,31895,"Great Falls, MT",US,United States,84
+13750,1375004,35221,"Titusville, FL",US,United States,33
+15842,1584202,35842,"Fort Dix, NJ",US,United States,21
+10710,1071006,30710,"Bordeaux, France",FR,France,427
+17009,1700901,36956,"Cianorte, Brazil",BR,Brazil,316
+15265,1526501,35265,"Tampere, Finland",FI,Finland,425
+12217,1221702,30255,"Huntsville, AL",US,United States,51
+15252,1525210,35252,"Tallinn, Estonia",EE,Estonia,422
+14197,1419706,31641,"Fayetteville, NC",US,United States,36
+13772,1377202,33772,"Whidbey Island, WA",US,United States,93
+11200,1120005,31197,"Clovis, NM",US,United States,86
+11344,1134402,30436,"Tucson, AZ",US,United States,81
+14848,1484802,31884,"Spokane, WA",US,United States,93
+14243,1424309,34243,"Pristina, Kosovo",KV,Kosovo,494
+11490,1149005,31490,"Edwards, CA",US,United States,91
+12187,1218703,32187,"Hopkinsville, KY",US,United States,52
+10386,1038603,30386,"Asuncion, Paraguay",PY,Paraguay,365
+10415,1041502,30415,"Abu Dhabi, United Arab Emirates",AE,United Arab Emirates,678
+10952,1095206,30952,"Cabo Frio, Brazil",BR,Brazil,316
+15031,1503101,35031,"Surabaya, Indonesia",ID,Indonesia,832
+15643,1564301,34990,"Santa Cruz, Bolivia",BO,Bolivia,312
+10340,1034005,30340,"Aqaba, Jordan",JO,Jordan,639
+10968,1096803,30968,"Jakarta, Indonesia",ID,Indonesia,832
+15718,1571802,35718,"Warsaw, Poland",PL,Poland,467
+13840,1384002,33840,"Ohakea, New Zealand",NZ,New Zealand,851
+12947,1294702,33667,"Newport News/Hampton, VA",US,United States,38
+10716,1071604,30716,"Mumbai, India",IN,India,733
+14803,1480302,34803,"Shenyang, China",CN,China,713
+17017,1701701,31369,"Doha, Qatar",QA,Qatar,664
+11413,1141307,30285,"Durango, CO",US,United States,82
+14098,1409803,33667,"Newport News/Williamsburg, VA",US,United States,38
+10740,1074004,30740,"Bremen, Germany",DE,Germany,429
+15510,1551002,35510,"Manumu, Papua New Guinea",PG,Papua New Guinea,804
+13936,1393603,31454,"Orlando, FL",US,United States,33
+16004,1600402,36004,"Saguenay, Canada",CA,Canada,941
+12896,1289607,32896,"Lubbock, TX",US,United States,74
+13000,1300003,33000,"Ljubljana, Slovenia",SI,Slovenia,481
+13433,1343302,33304,"Minot, ND",US,United States,66
+12300,1230002,32300,"Iguazu, Argentina",AR,Argentina,303
+11624,1162403,31624,"Key West, FL",US,United States,33
+16051,1605103,36051,"Fredericton, Canada",CA,Canada,946
+12250,1225003,32250,"Hyannis, MA",US,United States,13
+12441,1244102,32441,"Jackson, WY",US,United States,88
+12323,1232305,32323,"Wilmington, NC",US,United States,36
+11898,1189802,31898,"Grand Forks, ND",US,United States,66
+14904,1490405,34904,"St. Moritz, Switzerland",CH,Switzerland,486
+13757,1375703,33757,"Nantes, France",FR,France,427
+13184,1318403,33184,"Saginaw/Bay City/Midland, MI",US,United States,43
+12065,1206502,32065,"Haikou, China",CN,China,713
+13691,1369102,33691,"Nouakchott, Mauritania",MR,Mauritania,545
+10758,1075806,30758,"Brasilia, Brazil",BR,Brazil,316
+13208,1320806,33208,"Muscat, Oman",OM,Oman,658

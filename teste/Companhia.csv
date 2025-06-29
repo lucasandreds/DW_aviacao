@@ -1,0 +1,104 @@
+AIRLINE_ID,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,UNIQUE_CARRIER_ENTITY,CARRIER,CARRIER_NAME,REGION
+20272,KAH,Kenmore Air Harbor,06927,KAH,Kenmore Air Harbor,D
+20372,KLQ,Kalitta Charters II,16770,KLQ,Kalitta Charters II,I
+21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,01189,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,D
+21743,2LQ,Tropic Ocean Airways LLC,01203,2LQ,Tropic Ocean Airways LLC,D
+22085,GCA,"Global Crossing Airlines, Inc.",19768,GCA,"Global Crossing Airlines, Inc.",I
+20452,YX,Republic Airline,06003,YX,Republic Airline,D
+20201,AMQ,Ameristar Air Cargo,16057,AMQ,Ameristar Air Cargo,I
+20377,X9,Omni Air International LLC,16736,X9,Omni Air International LLC,I
+21652,27Q,"Jet Aviation Flight Services, Inc.",11046,27Q,"Jet Aviation Flight Services, Inc.",I
+19977,UA,United Air Lines Inc.,10876,UA,United Air Lines Inc.,L
+21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",11057,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",I
+19977,UA,United Air Lines Inc.,0A875,UA,United Air Lines Inc.,D
+21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",01130,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",D
+21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",11054,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",I
+20377,X9,Omni Air International LLC,06738,X9,Omni Air International LLC,D
+20207,XP,TEM Enterprises dba  Avelo Airlines,06144,XP,TEM Enterprises dba  Avelo Airlines,D
+20007,5Y,Atlas Air Inc.,16087,5Y,Atlas Air Inc.,I
+20405,N8,National Air Cargo Group Inc d/ba National Airlines,11049,N8,National Air Cargo Group Inc d/ba National Airlines,I
+21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",01159,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",D
+20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",16076,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",I
+20445,C5,CommuteAir LLC dba CommuteAir,11059,C5,CommuteAir LLC dba CommuteAir,L
+20422,SY,Sun Country Airlines d/b/a MN Airlines,16795,SY,Sun Country Airlines d/b/a MN Airlines,L
+20207,XP,TEM Enterprises dba  Avelo Airlines,16144,XP,TEM Enterprises dba  Avelo Airlines,I
+20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,11062,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,I
+20370,KAQ,Kalitta Air LLC,16683,KAQ,Kalitta Air LLC,I
+19977,UA,United Air Lines Inc.,10874,UA,United Air Lines Inc.,A
+20445,C5,CommuteAir LLC dba CommuteAir,06944,C5,CommuteAir LLC dba CommuteAir,D
+20169,L2,Lynden Air Cargo Airlines,11040,L2,Lynden Air Cargo Airlines,I
+20007,5Y,Atlas Air Inc.,06087,5Y,Atlas Air Inc.,D
+20370,KAQ,Kalitta Air LLC,06683,KAQ,Kalitta Air LLC,D
+19977,UA,United Air Lines Inc.,10877,UA,United Air Lines Inc.,P
+21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",01234,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",D
+20195,WI,Sky Lease Cargo,16884,WI,Sky Lease Cargo,I
+21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",11019,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",I
+21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",01235,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",D
+21629,KD,Western Global,11042,KD,Western Global,I
+20100,PO,Polar Air Cargo Airways,16758,PO,Polar Air Cargo Airways,P
+20177,PFQ,Asia Pacific,16070,PFQ,Asia Pacific,I
+20107,FX,Federal Express Corporation,16196,FX,Federal Express Corporation,A
+20107,FX,Federal Express Corporation,06200,FX,Federal Express Corporation,D
+20107,FX,Federal Express Corporation,16195,FX,Federal Express Corporation,L
+20107,FX,Federal Express Corporation,16197,FX,Federal Express Corporation,P
+19790,DL,Delta Air Lines Inc.,10262,DL,Delta Air Lines Inc.,P
+20447,U7,USA Jet Airlines Inc.,16917,U7,USA Jet Airlines Inc.,I
+21615,1YQ,"Air Charter, Inc d/b/a Air Flamenco",01180,1YQ,"Air Charter, Inc d/b/a Air Flamenco",D
+20151,M6,Amerijet International,16052,M6,Amerijet International,L
+19790,DL,Delta Air Lines Inc.,10260,DL,Delta Air Lines Inc.,L
+20108,NC,Northern Air Cargo Inc.,11041,NC,Northern Air Cargo Inc.,I
+20166,GFQ,Gulf And Caribbean Cargo,16565,GFQ,Gulf And Caribbean Cargo,I
+20201,AMQ,Ameristar Air Cargo,06055,AMQ,Ameristar Air Cargo,D
+20166,GFQ,Gulf And Caribbean Cargo,06565,GFQ,Gulf And Caribbean Cargo,D
+20405,N8,National Air Cargo Group Inc d/ba National Airlines,07029,N8,National Air Cargo Group Inc d/ba National Airlines,D
+19917,5X,United Parcel Service,16912,5X,United Parcel Service,L
+19917,5X,United Parcel Service,16913,5X,United Parcel Service,P
+19874,8C,Air Transport International,16028,8C,Air Transport International,A
+20453,ABX,ABX Air Inc,11009,ABX,ABX Air Inc,A
+19790,DL,Delta Air Lines Inc.,10261,DL,Delta Air Lines Inc.,A
+19790,DL,Delta Air Lines Inc.,01260,DL,Delta Air Lines Inc.,D
+19917,5X,United Parcel Service,06910,5X,United Parcel Service,D
+20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,06860,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,D
+19917,5X,United Parcel Service,16911,5X,United Parcel Service,A
+20447,U7,USA Jet Airlines Inc.,06912,U7,USA Jet Airlines Inc.,D
+20453,ABX,ABX Air Inc,80006,ABX,ABX Air Inc,D
+20453,ABX,ABX Air Inc,11018,ABX,ABX Air Inc,P
+21080,04Q,Tradewind Aviation,01126,04Q,Tradewind Aviation,D
+21745,2NQ,LIMA NY Corp d/b/a Fly The Whale,01205,2NQ,LIMA NY Corp d/b/a Fly The Whale,D
+20398,MQ,Envoy Air,16820,MQ,Envoy Air,L
+19805,AA,American Airlines Inc.,10050,AA,American Airlines Inc.,L
+19930,AS,Alaska Airlines Inc.,16031,AS,Alaska Airlines Inc.,L
+19805,AA,American Airlines Inc.,0A050,AA,American Airlines Inc.,D
+21894,AN,"ADVANCED AIR, LLC",01229,AN,"ADVANCED AIR, LLC",D
+22081,TQ,"Tailwind Air, LLC",01269,TQ,"Tailwind Air, LLC",D
+20436,F9,Frontier Airlines Inc.,16461,F9,Frontier Airlines Inc.,L
+19805,AA,American Airlines Inc.,10049,AA,American Airlines Inc.,A
+19805,AA,American Airlines Inc.,10052,AA,American Airlines Inc.,P
+20363,9E,Endeavor Air Inc.,11027,9E,Endeavor Air Inc.,L
+21944,3BQ,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air",01231,3BQ,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air",D
+21718,2JQ,Delux Public Charter LLC,01202,2JQ,Delux Public Charter LLC,D
+19393,WN,Southwest Airlines Co.,11033,WN,Southwest Airlines Co.,L
+20401,3M,Silver Airways,11056,3M,Silver Airways,I
+20409,B6,JetBlue Airways,16673,B6,JetBlue Airways,L
+20397,OH,PSA Airlines Inc.,07028,OH,PSA Airlines Inc.,D
+20378,YV,Mesa Airlines Inc.,11022,YV,Mesa Airlines Inc.,L
+20304,OO,SkyWest Airlines Inc.,11025,OO,SkyWest Airlines Inc.,L
+20327,7H,NEW PACIFIC AIRLINES,06989,7H,NEW PACIFIC AIRLINES,D
+20397,OH,PSA Airlines Inc.,11030,OH,PSA Airlines Inc.,L
+20500,G7,GoJet Airlines LLC d/b/a United Express,07041,G7,GoJet Airlines LLC d/b/a United Express,D
+20422,SY,Sun Country Airlines d/b/a MN Airlines,06795,SY,Sun Country Airlines d/b/a MN Airlines,D
+20327,7H,NEW PACIFIC AIRLINES,11063,7H,NEW PACIFIC AIRLINES,I
+21518,1EQ,"KaiserAir, Inc.",01162,1EQ,"KaiserAir, Inc.",D
+20409,B6,JetBlue Airways,10875,B6,JetBlue Airways,A
+20363,9E,Endeavor Air Inc.,07024,9E,Endeavor Air Inc.,D
+20304,OO,SkyWest Airlines Inc.,06700,OO,SkyWest Airlines Inc.,D
+22080,MX,Breeze Aviation Group DBA  Breeze,01268,MX,Breeze Aviation Group DBA  Breeze,D
+20046,ZW,Air Wisconsin Airlines Corp,06024,ZW,Air Wisconsin Airlines Corp,D
+20416,NK,Spirit Air Lines,16831,NK,Spirit Air Lines,L
+20409,B6,JetBlue Airways,06673,B6,JetBlue Airways,D
+19690,HA,Hawaiian Airlines Inc.,15375,HA,Hawaiian Airlines Inc.,P
+20427,PT,Piedmont Airlines,06918,PT,Piedmont Airlines,D
+20368,G4,Allegiant Air,06035,G4,Allegiant Air,D
+19930,AS,Alaska Airlines Inc.,06031,AS,Alaska Airlines Inc.,D
+20398,MQ,Envoy Air,06820,MQ,Envoy Air,D
+19687,QX,Horizon Air,06580,QX,Horizon Air,D
